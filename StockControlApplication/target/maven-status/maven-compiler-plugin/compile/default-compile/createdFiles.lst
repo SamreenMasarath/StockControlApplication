@@ -1,0 +1,12 @@
+com\stockcontrol\app\ASCStockManagerGUI.class
+com\stockcontrol\app\ASCStockManager$1.class
+com\stockcontrol\app\ASCStockObserver.class
+com\stockcontrol\app\ASCStockManager$2.class
+com\stockcontrol\app\ASCStockSubject.class
+com\stockcontrol\app\ASCStockManagerGUI$2.class
+com\stockcontrol\app\MSMToASCStockItemAdapter.class
+com\stockcontrol\app\MSMStockItem.class
+com\stockcontrol\app\ASCStockManager.class
+com\stockcontrol\app\ASCStockManagerGUI$1.class
+com\stockcontrol\app\ASCSalesItem.class
+com\stockcontrol\app\ASCStockItem.class
